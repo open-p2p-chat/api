@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 chat = { path = "../chat" }
+p2p = { path = "../p2p" }
