@@ -1,4 +1,4 @@
-pub mod api {
+pub mod chat_api {
     use p2p::chat_p2p::ChatP2P;
     use chat::message::Message;
     use std::error::Error;
